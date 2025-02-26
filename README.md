@@ -26,7 +26,7 @@ Esta API REST permite gestionar usuarios y autenticar clientes mediante JSON Web
 ### 1. Clonar el Repositorio
 
 
-    git clone [<URL-del-repositorio>](https://github.com/Pedro-JRC/GestorUsuariosWebTokens.git)
+    git clone https://github.com/Pedro-JRC/GestorUsuariosWebTokens.git
     cd GestorUsuariosWebTokens
 
 
